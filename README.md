@@ -15,4 +15,9 @@ Open an [issue](../../issues/new/choose). In the app, **Help → Report a bug…
 this page with the app version and system filled in. It never includes your
 transactions or balances. Please don't paste them here either: issues are public.
 
-The app's source code is private. This repository holds issues and releases only.
+## Privacy
+
+Read the [privacy policy](PRIVACY.md).
+
+The app's source code is private. This repository holds issues, releases and the
+privacy policy.
