@@ -19,5 +19,7 @@ transactions or balances. Please don't paste them here either: issues are public
 
 Read the [privacy policy](PRIVACY.md).
 
-The app's source code is private. This repository holds issues, releases and the
+The app's source code is public, at
+[Loveland-Solutions/betterbudget-app](https://github.com/Loveland-Solutions/betterbudget-app),
+so anyone can check what it does. This repository holds issues, releases and the
 privacy policy.

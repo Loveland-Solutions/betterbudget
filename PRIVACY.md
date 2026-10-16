@@ -1,7 +1,7 @@
 # BetterBudget Privacy Policy
 
 **Effective date:** October 14, 2026
-**Last updated:** October 14, 2026
+**Last updated:** October 16, 2026
 
 This Privacy Policy explains how Loveland Solutions, LLC ("we," "us" or "our") handles information in connection with the **BetterBudget** app (the "App"), available on the Apple App Store, Google Play and the Microsoft Store.
 
@@ -46,17 +46,19 @@ Because we never receive your budget data, we cannot view, recover, correct or d
 
 ---
 
-## 4. Purchases through the app stores
+## 4. Downloads
 
-You buy BetterBudget, and any in-app purchases, through the Apple App Store, Google Play or the Microsoft Store. The store handles your payment and collects the information needed to complete it, such as your account, payment method and billing details. That information is governed by the store's privacy policy:
+BetterBudget is free, with nothing to buy inside it. You download it through the Apple App Store, Google Play or the Microsoft Store. The store handles the download and may collect information to provide it, such as your store account. That information is governed by the store's privacy policy:
 
 - Apple: [apple.com/legal/privacy](https://www.apple.com/legal/privacy/)
 - Google: [policies.google.com/privacy](https://policies.google.com/privacy)
 - Microsoft: [privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement)
 
-We do not receive your payment card details, billing address or other payment information.
+If you download BetterBudget from our GitHub page instead, GitHub handles the download under its own privacy statement, at [docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-The stores give developers aggregated sales and download reports (for example, the number of purchases by country). If you have chosen in your device settings to share crash or diagnostic reports with app developers, the store may also give us those reports. We use this information only to understand sales and to fix problems with the App, and we do not use it to identify you.
+There is nothing to pay, so we never receive payment information.
+
+The stores give developers aggregated download reports (for example, the number of downloads by country). If you have chosen in your device settings to share crash or diagnostic reports with app developers, the store may also give us those reports. We use this information only to understand how many people use the App and to fix problems with it, and we do not use it to identify you.
 
 ---
 
@@ -108,7 +110,7 @@ Because the App does not collect personal information, most privacy rights apply
 
 ### 9.1 European Economic Area, United Kingdom and Switzerland (GDPR)
 
-For support emails, we are the controller. Our legal basis is our **legitimate interest** in responding to people who contact us (GDPR Article 6(1)(f)), or **steps you have asked us to take** in connection with your purchase (Article 6(1)(b)).
+For support emails, we are the controller. Our legal basis is our **legitimate interest** in responding to people who contact us (GDPR Article 6(1)(f)), or **steps you have asked us to take** in connection with your use of the App (Article 6(1)(b)).
 
 You have the right to access, correct, erase, restrict or receive a portable copy of your personal information, and to object to our processing of it. You also have the right to lodge a complaint with the data protection supervisory authority where you live or work.
 
