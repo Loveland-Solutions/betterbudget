@@ -1,7 +1,7 @@
 # BetterBudget Privacy Policy
 
 **Effective date:** October 14, 2026
-**Last updated:** October 16, 2026
+**Last updated:** October 20, 2026
 
 This Privacy Policy explains how Loveland Solutions, LLC ("we," "us" or "our") handles information in connection with the **BetterBudget** app (the "App"), available on the Apple App Store, Google Play and the Microsoft Store.
 
@@ -53,8 +53,6 @@ BetterBudget is free, with nothing to buy inside it. You download it through the
 - Apple: [apple.com/legal/privacy](https://www.apple.com/legal/privacy/)
 - Google: [policies.google.com/privacy](https://policies.google.com/privacy)
 - Microsoft: [privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement)
-
-If you download BetterBudget from our GitHub page instead, GitHub handles the download under its own privacy statement, at [docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 There is nothing to pay, so we never receive payment information.
 
