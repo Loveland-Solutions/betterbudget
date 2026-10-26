@@ -1,7 +1,7 @@
 # BetterBudget Privacy Policy
 
 **Effective date:** October 14, 2026
-**Last updated:** October 20, 2026
+**Last updated:** October 26, 2026
 
 This Privacy Policy explains how Loveland Solutions, LLC ("we," "us" or "our") handles information in connection with the **BetterBudget** app (the "App"), available on the Apple App Store, Google Play and the Microsoft Store.
 
@@ -72,11 +72,11 @@ We use this information **only to answer you** and to help with your request. We
 
 Our email is provided by Google Workspace (Google LLC), which processes messages on our behalf. Google's privacy policy is at [policies.google.com/privacy](https://policies.google.com/privacy).
 
-We keep support emails for up to 24 months after your request is resolved, then delete them, unless we need to keep them longer to comply with the law. You can ask us to delete your messages sooner at any time.
+We keep support messages for up to 24 months after your request is resolved, then delete them, unless we need to keep them longer to comply with the law. You can ask us to delete your messages sooner at any time.
 
 Please do not send us your budget data, account numbers or other sensitive financial information by email.
 
-**Bug reports on GitHub:** You can also report a bug or suggest an idea on our public GitHub page, [github.com/Loveland-Solutions/betterbudget](https://github.com/Loveland-Solutions/betterbudget). What you post there is public, and it is posted under your GitHub account and governed by GitHub's privacy statement, at [docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). If the App fills in a report for you, it includes only the App's version and your device's operating system, never your transactions or balances, and nothing is sent until you submit it yourself. Do not post your budget data there.
+**Bug reports and ideas through our website:** You can also report a bug or suggest an idea through the contact form on our website, at [lls.mn/en/contact](https://lls.mn/en/contact/). The form asks for your name, your email address and your message, and for your agreement to the website's privacy policy, at [lls.mn/en/privacy](https://lls.mn/en/privacy/), which explains how the website and the services that run it handle what you send. In the App, **Help → Report a bug…** opens that form in your web browser with only the App's version and your device's operating system filled in, never your transactions or balances. The form shows you both before you send it, and nothing is sent until you send it yourself; the App makes no connection of its own. Please do not paste your budget data into the form.
 
 ---
 
@@ -84,13 +84,13 @@ Please do not send us your budget data, account numbers or other sensitive finan
 
 **We do not sell your personal information.** We also do not "share" it for cross-context behavioral advertising, as that term is defined under California law.
 
-The only personal information we ever receive is what you send us by email or post on GitHub (Section 5). We share it only with our email provider (Google), as needed to receive and respond to your message, or if we are required to by law, regulation or court order.
+The only personal information we ever receive is what you send us by email or through our website's contact form (Section 5). We share it only with the services that carry it to us, as needed to receive and respond to your message: our email provider (Google), and, for the contact form, Cloudflare, which runs the website and checks that a person sent the form, and Resend, which delivers the form to our email. We also share it if we are required to by law, regulation or court order.
 
 ---
 
 ## 7. International transfers
 
-We are a United States company, and our support team may be located outside your country, including in Mongolia. If you email us, your message may be processed in the United States, Mongolia and other countries where Google operates. Where required, we rely on appropriate safeguards, such as the European Commission's Standard Contractual Clauses included in Google's data processing terms.
+We are a United States company, and our support team may be located outside your country, including in Mongolia. If you email us or use our website's contact form, your message may be processed in the United States, Mongolia and other countries where Google, Cloudflare and Resend operate. Where required, we rely on appropriate safeguards, such as the European Commission's Standard Contractual Clauses included in these providers' data processing terms.
 
 ---
 
@@ -98,17 +98,17 @@ We are a United States company, and our support team may be located outside your
 
 The App does not transmit your budget data anywhere, which is the strongest protection we can offer. The data the App stores, including any copy it saves in a folder you choose, is encrypted. Keeping your device secure (for example, with a passcode and up-to-date software) helps protect the data stored on it.
 
-We protect support emails with reasonable technical and organizational measures, including encrypted connections and secured business accounts.
+We protect support messages with reasonable technical and organizational measures, including encrypted connections and secured business accounts.
 
 ---
 
 ## 9. Your rights
 
-Because the App does not collect personal information, most privacy rights apply only to support emails you have sent us. To exercise any of the rights below, email **contact@lls.mn**. We will respond within the time required by applicable law (generally within 30 days, or 45 days for California requests). We will not discriminate against you for exercising your rights.
+Because the App does not collect personal information, most privacy rights apply only to support messages you have sent us. To exercise any of the rights below, email **contact@lls.mn**. We will respond within the time required by applicable law (generally within 30 days, or 45 days for California requests). We will not discriminate against you for exercising your rights.
 
 ### 9.1 European Economic Area, United Kingdom and Switzerland (GDPR)
 
-For support emails, we are the controller. Our legal basis is our **legitimate interest** in responding to people who contact us (GDPR Article 6(1)(f)), or **steps you have asked us to take** in connection with your use of the App (Article 6(1)(b)).
+For support messages, we are the controller. Our legal basis is our **legitimate interest** in responding to people who contact us (GDPR Article 6(1)(f)), or **steps you have asked us to take** in connection with your use of the App (Article 6(1)(b)).
 
 You have the right to access, correct, erase, restrict or receive a portable copy of your personal information, and to object to our processing of it. You also have the right to lodge a complaint with the data protection supervisory authority where you live or work.
 
@@ -116,7 +116,7 @@ You have the right to access, correct, erase, restrict or receive a portable cop
 
 If you are a California resident:
 
-- **Categories collected:** In the past 12 months, the only personal information we have collected is **identifiers** (such as your email address and name) and the contents of messages, and only when you emailed us. The source is you, and the purpose is responding to your request.
+- **Categories collected:** In the past 12 months, the only personal information we have collected is **identifiers** (such as your email address and name) and the contents of messages, and only when you emailed us or used our website's contact form. The source is you, and the purpose is responding to your request.
 - **No sale or sharing:** We have not sold or shared personal information in the past 12 months, and we do not sell or share the personal information of consumers under 16.
 - **No sensitive personal information:** We do not collect sensitive personal information as defined by the CPRA.
 - **Your rights:** You have the right to know what personal information we have collected about you, to delete it, to correct it, to opt out of its sale or sharing, and not to be discriminated against for exercising these rights. You may use an authorized agent; we may ask for proof of the agent's authority and verify your identity with you directly.
@@ -125,7 +125,7 @@ Under the California Online Privacy Protection Act (CalOPPA): the App does not t
 
 ### 9.3 Mongolia
 
-Under Mongolia's Law on the Protection of Personal Information, you have the right to know what personal information we hold about you, to receive a copy of it, and to have it corrected or deleted. The only personal information we hold is the support email you sent us (Section 5). You may also complain to the National Human Rights Commission of Mongolia.
+Under Mongolia's Law on the Protection of Personal Information, you have the right to know what personal information we hold about you, to receive a copy of it, and to have it corrected or deleted. The only personal information we hold is the support messages you sent us (Section 5). You may also complain to the National Human Rights Commission of Mongolia.
 
 ---
 
