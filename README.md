@@ -12,9 +12,11 @@ Google Play and the Microsoft Store, which also keep it up to date.
 
 ## Report a bug or suggest an idea
 
-Open an [issue](../../issues/new/choose). In the app, **Help → Report a bug…** opens
-this page with the app version and system filled in. It never includes your
-transactions or balances. Please don't paste them here either: issues are public.
+In the app, click **Report a problem…** at the foot of the sidebar on a computer, or at
+the end of the Budget screen on a phone. It opens the contact form on our website with
+the app's version and your device's system filled in, never your transactions or
+balances. If the app won't open, use the [contact form](https://lls.mn/en/contact/)
+directly. Please don't paste your budget data into it.
 
 ## Privacy
 
@@ -22,5 +24,4 @@ Read the [privacy policy](PRIVACY.md).
 
 The app's source code is public, at
 [Loveland-Solutions/betterbudget-app](https://github.com/Loveland-Solutions/betterbudget-app),
-so anyone can check what it does. This repository holds issues and the privacy
-policy.
+so anyone can check what it does. This repository holds the privacy policy.
