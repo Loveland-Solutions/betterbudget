@@ -1,7 +1,7 @@
 # BetterBudget Privacy Policy
 
 **Effective date:** October 14, 2026
-**Last updated:** October 27, 2026
+**Last updated:** October 30, 2026
 
 This Privacy Policy explains how Loveland Solutions, LLC ("we," "us" or "our") handles information in connection with the **BetterBudget** app (the "App"), available on the Apple App Store, Google Play and the Microsoft Store.
 
@@ -77,7 +77,7 @@ We keep support messages for up to 24 months after your request is resolved, the
 
 Please do not send us your budget data, account numbers or other sensitive financial information by email.
 
-**Bug reports and ideas through our website:** You can also report a bug or suggest an idea through the contact form on our website, at [lls.mn/en/contact](https://lls.mn/en/contact/). The form asks for your name, your email address and your message, and for your agreement to the website's privacy policy, at [lls.mn/en/privacy](https://lls.mn/en/privacy/), which explains how the website and the services that run it handle what you send. In the App, **Report a problem…**, at the foot of the sidebar on a computer or of the Budget screen on a phone, and on the screens shown when your ledger won't open, opens that form in your web browser with only the App's version and your device's operating system filled in, never your transactions or balances. The form shows you both before you send it, and nothing is sent until you send it yourself; the App makes no connection of its own. To send us the details of a problem, the App's **Copy** and **Copy all** buttons put them on your clipboard for you to paste into the form; read them first, since they may include the name or location of a file. Please do not paste your budget data into the form.
+**Bug reports and ideas through our website:** You can also report a bug or suggest an idea through the contact form on our website, at [lls.mn/en/contact](https://lls.mn/en/contact/). The form asks for your name, your email address and your message, and for your agreement to the website's privacy policy, at [lls.mn/en/privacy](https://lls.mn/en/privacy/), which explains how the website and the services that run it handle what you send. In the App, **Send feedback…**, at the foot of the sidebar on a computer or beside Accounts at the top of the Budget screen on a phone, and on the screens shown when your ledger won't open, opens that form in your web browser with only the App's version and your device's operating system filled in, never your transactions or balances. The form shows you both before you send it, and nothing is sent until you send it yourself; the App makes no connection of its own. To send us the details of a problem, the App's **Copy** and **Copy all** buttons put them on your clipboard for you to paste into the form; read them first, since they may include the name or location of a file. Please do not paste your budget data into the form.
 
 ---
 

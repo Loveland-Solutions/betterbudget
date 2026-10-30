@@ -12,8 +12,8 @@ Google Play and the Microsoft Store, which also keep it up to date.
 
 ## Report a bug or suggest an idea
 
-In the app, click **Report a problem…** at the foot of the sidebar on a computer, or at
-the end of the Budget screen on a phone. It opens the contact form on our website with
+In the app, click **Send feedback…** at the foot of the sidebar on a computer, or tap
+the speech bubble beside Accounts at the top of the Budget screen on a phone. It opens the contact form on our website with
 the app's version and your device's system filled in, never your transactions or
 balances. If the app won't open, use the [contact form](https://lls.mn/en/contact/)
 directly. Please don't paste your budget data into it.
